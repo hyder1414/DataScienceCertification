@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DataScienceCertification.iml" filepath="$PROJECT_DIR$/.idea/DataScienceCertification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonDataScience.iml" filepath="$PROJECT_DIR$/.idea/PythonDataScience.iml" />
     </modules>
   </component>
 </project>
